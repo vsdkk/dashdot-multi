@@ -5,7 +5,7 @@ echo "🚀 Устанавливаем Multi-Server Dashdot..."
 sudo apt update && sudo apt install -y docker.io docker-compose git
 
 # Клонируем репозиторий
-git clone https://github.com/ТВОЙ-ГИТХАБ/dashdot-multi.git
+git clone https://github.com/vsdkk/dashdot-multi.git
 cd dashdot-multi
 
 # Запускаем контейнеры
