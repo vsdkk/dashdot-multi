@@ -19,4 +19,4 @@ app.get("/servers", async (req, res) => {
     res.json(results);
 });
 
-app.listen(PORT, () => console.log(`✅ Сервер работает на порту ${PORT}`));
+1
